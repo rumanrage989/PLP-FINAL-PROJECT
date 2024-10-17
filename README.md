@@ -140,6 +140,6 @@ To run this app, you will need to follow these 3 steps:
 Project is: _done_
 
 ## Contact
-Created by Ruman Rage [here](https://github.com/rumanrage989/PPlp Final Project)
+Created by Ruman Rage [contact](mailto: rumanrage989@students.uonbi.ac.ke)
 
 
